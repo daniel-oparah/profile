@@ -1,0 +1,15 @@
+.form{
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+.fine{
+    border: 3px solid black;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    margin: 50px 5px 100px 30px;
+    outline: 3px solid red;
+    outline-offset: 5px;
+    box-sizing: border-box;
+    border-radius: 12px;
+}
